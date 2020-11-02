@@ -1,0 +1,8 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "记录 react 相关生态源码学习",
+  "repository": "https://github.com/Col0ring/toy-react",
+  "author": "Col0ring <1561999073@qq.com>",
+  "license": "MIT"
+}
